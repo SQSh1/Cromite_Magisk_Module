@@ -1,7 +1,0 @@
-id=cromite_webview
-name=Cromite WebView (SQ Version)
-version=132.0.6834.83
-versionCode=1320683483
-author=SQ
-description=System WebView replacement with Cromite (secure, fingerprint-unlocked WebView)
-updateJson=https://raw.githubusercontent.com/SQSh1/cromite-magisk/main/update.json

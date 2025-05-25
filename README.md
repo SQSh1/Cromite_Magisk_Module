@@ -54,5 +54,12 @@ This module uses a built-in `update.json` to support **automatic update checks**
 
 ---
 
+## License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](https://github.com/SQSh1/Cromite_Magisk_Module/blob/main/LICENSE) file for details.
+
+---
+
 **Created with love by [SQ](https://github.com/SQSh1)**  
 For advanced users and educational purposes only.
